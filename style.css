@@ -848,7 +848,7 @@ body {
 /* !=================================================================================PARTNERSHIP===================================== */
 
 .partnership {
-  font-family: recoleta;
+  font-family: montserrat;
 }
 
 .partnership .header {
@@ -870,6 +870,7 @@ body {
   text-align: justify;
   color: #cf578a;
   font-weight: 500;
+  font-family: montserrat;
 }
 
 .partnership .carousel-partner {
