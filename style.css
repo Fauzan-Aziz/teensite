@@ -330,7 +330,7 @@ body {
   font-size: 1.5em;
   /* font-size: 2em; */
   line-height: 2rem;
-  font-family: recoleta;
+  font-family: 'recoleta', 'montserrat';
 }
 
 .container-home .main .box1 .story {
@@ -558,7 +558,7 @@ body {
 .container-home .footer .mainfoot .footertitle {
   font-size: calc(1em + 1vw);
   font-weight: bold;
-  font-family: recoleta;
+  font-family: 'recoleta', 'montserrat';
 }
 .container-home .footer .mainfoot .caption {
   font-size: calc(0.4em + 1vw);
